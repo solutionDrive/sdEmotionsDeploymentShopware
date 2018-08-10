@@ -1,0 +1,6 @@
+suites:
+  default:
+    namespace: sdEmotionsDeploymentShopware
+    psr4_prefix: sdEmotionsDeploymentShopware
+    spec_path: ./
+    src_path: ./
