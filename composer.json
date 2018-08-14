@@ -1,6 +1,6 @@
 {
     "name": "solutiondrive/sdemotionsdeploymentshopware",
-    "description": "TODO Change this default description",
+    "description": "Deployment helpers for Emotions",
     "type": "shopware-plugin",
     "license": "proprietary",
     "authors": [
