@@ -3,6 +3,10 @@
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
     <services>
-
+        <service
+                id="sd.emotions_deployment.commands.export_command"
+                class="sdEmotionsDeploymentShopware\Commands\ExportCommand">
+            <tag name="console.command"/>
+        </service>
     </services>
 </container>
